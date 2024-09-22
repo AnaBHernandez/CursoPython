@@ -1,3 +1,2 @@
-"# CursoPython" 
-"# Python" 
+
 "# TallerPython" 
